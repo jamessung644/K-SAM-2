@@ -1,20 +1,15 @@
-<p align="center">
-  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="20%" alt="SAM-2-logo">
-</p>
+
 <p align="center">
     <h1 align="center">SAM-2</h1>
 </p>
+
 <p align="center">
-    <em>정밀도를 높이는 고급 데이터 분석</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/jamessung644/SAM-2?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/jamessung644/SAM-2?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/jamessung644/SAM-2?style=flat&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/jamessung644/SAM-2?style=flat&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center">
-		<em>다음과 같은 도구 및 기술로 개발되었습니다:</em>
+    <h5 align="center">다음과 같은 도구 및 기술로 개발되었습니다:</h1>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
