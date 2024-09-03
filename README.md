@@ -60,7 +60,8 @@ https://github.com/user-attachments/assets/72790484-95b9-47a7-8d7d-f656447a85fb
     └── notebooks
         └── how-to-segment-videos-with-sam-2.ipynb
 	└── Your video
-🧩 모듈
+```
+## 🧩 모듈
 
 <details closed><summary>notebooks</summary>
 
@@ -70,7 +71,7 @@ https://github.com/user-attachments/assets/72790484-95b9-47a7-8d7d-f656447a85fb
 
 </details>
 
-🚀 시작하기
+##🚀 시작하기
 
 ### 🔖 사전 준비사항
 
