@@ -41,11 +41,7 @@ SAM-2는 비디오를 효과적으로 세분화하기 위한 고급 알고리즘
 
 다음은 SAM-2 모델을 사용한 결과입니다:
 
-- 원본 영상
-
-
-Uploading StopVdo_gongPath.mp4…
-
+-[원본 영상](https://youtu.be/mJp-ZOwRsgg)
 
 - SAM-2 모델 결과 영상
 
